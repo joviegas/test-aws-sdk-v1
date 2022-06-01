@@ -13,7 +13,7 @@
     <name>aws-sdk-java-v1-test Tapestry 5 Application</name>
 	<properties>
         <java.version>1.8</java.version>
-        <awsjavasdk.version>1.12.69</awsjavasdk.version>
+        <awsjavasdk.version>LATEST</awsjavasdk.version>
 	</properties>
     <repositories>
         <repository>
